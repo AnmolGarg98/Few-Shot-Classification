@@ -10,3 +10,5 @@ Contains Implementation and Comparison of paper :
 Omniglot dataset https://github.com/brendenlake/omniglot
 
 ## Results Reproduced
+![Output1](https://github.com/AnmolGarg98/Few-Shot-Classification/blob/main/Result_screenshots/result1.png)
+![Output2](https://github.com/AnmolGarg98/Few-Shot-Classification/blob/main/Result_screenshots/result2.png)
